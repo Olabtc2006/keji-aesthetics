@@ -1,0 +1,6 @@
+{
+  "name": "KEJI AESTHETICS",
+  "description": "3D Luxury E-Commerce Website. Dress To Impress; Live To Express.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
